@@ -1,6 +1,6 @@
 # mini-player
-CHALLENEGES>>>> CREATE E2E PIPELINE and run this job
-1> set up pipeline
+CHALLENEGES>>>> CREATE E2E PIPELINE and run this job \
+1> set up pipeline \
 2> build
 3> test
 4> deploy
